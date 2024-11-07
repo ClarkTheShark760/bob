@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wes is Cute</title>
+    <style>
+        /* This CSS will center the text in the middle of the page */
+        body, html {
+            height: 100%;          /* Full viewport height */
+            margin: 0;             /* Remove default margin */
+            display: flex;         /* Use flexbox to center */
+            justify-content: center; /* Horizontal center */
+            align-items: center;   /* Vertical center */
+            font-family: Arial, sans-serif; /* Use a clean font */
+            background-color: #f0f0f0; /* Light background */
+        }
+        h1 {
+            font-size: 3em;        /* Large text size */
+            color: #333;           /* Dark text color */
+        }
+    </style>
+</head>
+<body>
+    <h1>Wes is cute</h1>
+</body>
+</html>
